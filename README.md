@@ -1,1 +1,3 @@
-# TASK-8_ELEVATE-AB_INTERN
+# TASK-8_ELEVATELAB_INTERN
+# K-Means Clustering on Credit Card Customer Data
+In this project, I performed unsupervised learning using K-Means clustering on a credit card customer dataset. The objective was to segment customers based on their usage behavior without any prior labels. I started by cleaning and scaling the dataset using Pandas and Scikit-learn, then applied the Elbow Method to determine the optimal number of clusters. I visualized the clusters using PCA for dimensionality reduction, enabling a 2D plot for better understanding. Finally, I evaluated the clustering performance using the Silhouette Score. This project demonstrates practical skills in clustering, dimensionality reduction, and model evaluation using Python’s data science libraries.
